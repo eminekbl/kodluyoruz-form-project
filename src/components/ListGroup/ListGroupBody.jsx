@@ -46,7 +46,7 @@ function ListGroupBody(props) {
           </Form.Group>
           <Accordion.Toggle
             as={Button}
-            variant="link"
+            variant="link" 
             eventKey="0"
             className="text-center text-dark"
           >
